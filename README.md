@@ -35,7 +35,7 @@ The details of the user interface are shown to the user. The user has to select 
 ## Technologies
 Project is created with:
 * Java 8
-* IntelliJ IDE
+* Eclipse IDE
 
 ## Sprint Planning
 https://trello.com/b/JhcCL6EQ/lockedmecom
