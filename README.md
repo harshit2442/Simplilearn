@@ -13,6 +13,7 @@ A simple file handling project in Java
 
 ## Using the application
 Welcome screen displays the application name and the developer details.
+<img width="700" src="Welcome_Screen.png">
 
 The details of the user interface are shown to the user. The user has to select from the options listed 
 
