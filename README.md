@@ -44,5 +44,5 @@ https://trello.com/b/JhcCL6EQ/lockedmecom
 Run this as a Java project
 
 ```
-Launcher or main() method can be found in Assesment
+Launcher or main() method can be found in Assesment.java
 ```
